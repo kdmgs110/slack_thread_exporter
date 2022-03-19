@@ -1,1 +1,3 @@
 # slack_thread_exporter
+
+SlackのスレッドをGithub Issueに投稿するためのChrome拡張
